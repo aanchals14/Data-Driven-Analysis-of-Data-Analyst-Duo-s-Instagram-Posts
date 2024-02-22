@@ -36,23 +36,34 @@ The project focuses on two primary objectives:
     - 1000 +
 
 ### Analysis & Insights:
+#### Content Analysis:
 1. Analysis 1: Engagement across Different Post Types
-   <img width="916" alt="Screenshot 2024-02-22 193834" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/f82b1dad-aa65-474b-bc66-63f944361379">
+     <img width="916" alt="Screenshot 2024-02-22 193834" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/f82b1dad-aa65-474b-bc66-63f944361379">
     - IG Reels outperform other post types with higher average reach (52605), impressions (58707), likes (1915), shares (680), saves (2178), and retention rate (56%), making them a valuable tool for engaging the audience and expanding reach on Instagram.
     - The average engagement rate for IG carousels is 9%, which is significantly higher than the engagement rate for IG images (5%) and IG reels (8%). This suggests that carousels are more effective at capturing users' attention and getting them to interact with the content.
 
 2. Analysis 2: Engagement across Duration Bins
-    <img width="914" alt="Screenshot 2024-02-22 195503" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/d471399f-3aa9-42d8-b8ac-db6a8e445550">
+      <img width="914" alt="Screenshot 2024-02-22 195503" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/d471399f-3aa9-42d8-b8ac-db6a8e445550">
     - Reels with a duration of less than or equal to 30 seconds are highly effective in terms of reach, impression, comments, saves, and retention, indicating that shorter reels are more engaging and captivating for the audience.
     - Reels with a duration of more than 30 seconds are particularly effective in generating likes, shares, and overall engagement, suggesting that longer reels may allow for more detailed or immersive content that resonates well with the audience.
 
 3. Analysis 3: Analysed important keywords for highest-performing posts
+   - The posts were categorized based on the impression bins created: Below 10k, 10k-50k, 50k-1lakh, and Above 1 lakh.
+   - Word clouds were created for each of the bins to visualize the frequency of the keywords and the frequently occurring keywords were identified from them.
+     ![keyword](https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/6e8e9967-d9b6-4195-95d7-a32523eca856)
+   - It was found that the majority of the posts fell in the Below 10k and 10k-50k bins which suggests that a significant number of posts are not reaching a large audience, as they fall within the lower impression bins.
+   - Posts may be receiving a significant number of impressions (falling in the below 10k and 10k - 50k impression bins), they may not be effectively optimized with keywords to maximize engagement and reach.
+
+4. Analysis 4: Analyze important keywords for posts with high follows
+   - The Posts were categorized on the basis of the follow bins created which are : 0-50, 50-200, 200-500, 500-1000 and 1000+. Word clouds were generated to see the frequency of keywords in the posts with highest number of follows.
+     ![keyword_2](https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/528c8a58-8fb4-4fcb-8281-3df05b2ef0e2)
+   - Majority of the posts fall in the 0-50 follows bin, indicating a potential need to diversify the content strategy to attract a broader audience.
+   - The keywords do not show a clear pattern across different follow bins, suggesting that factors other than keyword usage may influence post performance.
+   - Experiment with various content types to determine the most effective ones for different follow bins. Monitor engagement metrics, particularly for posts with 0-50 followers, to detect trends and adjust the content strategy accordingly.
+
+#### Daily Statistics Analysis: 
+1. Instagram Reach Over Time
    
-
-   
-
-
-
 
 
 
