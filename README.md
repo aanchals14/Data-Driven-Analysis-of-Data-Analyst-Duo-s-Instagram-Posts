@@ -62,8 +62,50 @@ The project focuses on two primary objectives:
    - Experiment with various content types to determine the most effective ones for different follow bins. Monitor engagement metrics, particularly for posts with 0-50 followers, to detect trends and adjust the content strategy accordingly.
 
 #### Daily Statistics Analysis: 
-1. Instagram Reach Over Time
+1. Instagram Reach Over Time:
+
+   <img width="386" alt="Screenshot 2024-02-23 023231" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/2ca7e64c-d2c2-4e8d-88a0-8cfeefd5290e">
+  - The reach in 2022 and 2023 shows opposite trends, with 2022 peaking in March and August, while 2023 peaked in May.
+2. Instagram Profile Visit Over Time:
+
+   <img width="386" alt="Screenshot 2024-02-23 024910" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/73cd8ab3-7c97-44a8-8614-7b0225a382f7">
+  - In 2023, the peak in May indicates a strong interest or engagement spike, potentially due to specific content or campaigns during that period.
+  - The declines in February to April and September to November in 2022 suggest periods of lower interest or engagement, possibly indicating the need for more engaging content or strategies during those months.
+
+3. New Followers Gained Over Time:
+
+   <img width="386" alt="Screenshot 2024-02-23 025914" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/ac1a08b7-063c-41c5-a7ae-3d1c2bf414aa">
    
+  - The count of new followers is highest during December, May, July, and October irrespective of the year.
 
+#### Demographic Analysis:
+1. Age Distribution:
 
+   <img width="386" alt="Screenshot 2024-02-23 030429" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/5ac78a49-0f52-4f25-b09a-bd910ebd0c62">
+   
+   - From the above bar graph, we can infer that the majority of followers are between 25-34. This age group is often highly active on social media platforms and may be more likely to engage with content.
+   - They might also be a target demographic for the type of content or products/services this Instagram account promotes. 
+
+2. Gender Distribution:
+
+   <img width="386" alt="Screenshot 2024-02-23 031519" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/aea2d8c7-f520-4217-8e6a-edae586ca278">
+   
+   - The predominance of male followers could suggest that their content or brand resonates more with male audiences.
+   - Understanding this demographic trend can help tailor their content strategy to better engage with their existing audience while also considering ways to attract a more diverse following if desired.
+
+3. Geographic Distribution:
+
+   ![FotoJet](https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/6e732ab7-920a-4e5c-a48a-8d0ac5b9f6ff)
+   - We could infer from the above most of the distribution is across South India and Maharashtra when it comes to the State-wise Distribution While in Country-Wise Distribution we see the majority of the audience are from India and the United States.
+  
+### Recommendations:
+- Content Strategy Focus: Concentrate on creating more content related to Data Science, Data Analytics, SQL, Excel, Python libraries, Statistics, Online courses, Projects, Resume Building, Interviews, and Job Opportunities, as these topics resonate well with the audience.
+- Engagement Optimization: Continue to prioritize IG Reels and IG Carousels in content strategy, as they tend to have higher reach and engagement rates.
+- Audience Targeting: Tailor content to cater to the majority age group of 25-34, keeping in mind that the majority of followers are men.
+- Geographic Focus: Since the majority of followers are from India, consider creating region-specific content or campaigns to further engage this audience segment.
+- Consistent Analysis: Regularly analyze and compare data trends across months and years to adapt content strategy for optimal engagement and growth.
+
+### Acknowledgement:
+I would like to express my sincere gratitude to Data Analyst Duo for generously providing the dataset used in this analysis. Additionally, I am thankful to Kalpesh for his invaluable guidance throughout this project.
+   
 
