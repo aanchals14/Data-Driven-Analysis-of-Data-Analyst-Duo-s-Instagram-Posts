@@ -36,6 +36,21 @@ The project focuses on two primary objectives:
     - 1000 +
 
 ### Analysis & Insights:
+1. Analysis 1: Engagement across Different Post Types
+   <img width="916" alt="Screenshot 2024-02-22 193834" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/f82b1dad-aa65-474b-bc66-63f944361379">
+    - IG Reels outperform other post types with higher average reach (52605), impressions (58707), likes (1915), shares (680), saves (2178), and retention rate (56%), making them a valuable tool for engaging the audience and expanding reach on Instagram.
+    - The average engagement rate for IG carousels is 9%, which is significantly higher than the engagement rate for IG images (5%) and IG reels (8%). This suggests that carousels are more effective at capturing users' attention and getting them to interact with the content.
+
+2. Analysis 2: Engagement across Duration Bins
+    <img width="914" alt="Screenshot 2024-02-22 195503" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/d471399f-3aa9-42d8-b8ac-db6a8e445550">
+    - Reels with a duration of less than or equal to 30 seconds are highly effective in terms of reach, impression, comments, saves, and retention, indicating that shorter reels are more engaging and captivating for the audience.
+    - Reels with a duration of more than 30 seconds are particularly effective in generating likes, shares, and overall engagement, suggesting that longer reels may allow for more detailed or immersive content that resonates well with the audience.
+
+3. Analysis 3: Analysed important keywords for highest-performing posts
+   
+
+   
+
 
 
 
