@@ -39,14 +39,14 @@ The project focuses on two primary objectives:
 #### Content Analysis:
 1. Analysis 1: Engagement across Different Post Types
      <img width="916" alt="Screenshot 2024-06-17 110054" src="https://github.com/aanchals14/Instagram-Insights-Analysis/assets/131793044/45e153d6-66bb-496e-b74f-5f04837b2da2">
-    - IG Reels outperform other post types with higher average reach (52605), impressions (58707), likes (1915), shares (680), saves (2178), and retention rate (56%), making them a valuable tool for engaging the audience and expanding reach on Instagram.
+    - IG Reels outperform other post types with higher average reach (52605), impressions (43932), likes (1915), shares (680), saves (2178), and retention rate (67%), making them a valuable tool for engaging the audience and expanding reach on Instagram.
     - The average engagement rate for IG carousels is 9%, which is significantly higher than the engagement rate for IG images (5%) and IG reels (8%). This suggests that carousels are more effective at capturing users' attention and getting them to interact with the content.
 
 2. Analysis 2: Engagement across Duration Bins
       <img width="914" alt="Screenshot 2024-06-17 110127" src="https://github.com/aanchals14/Instagram-Insights-Analysis/assets/131793044/48f288f7-3197-46b1-9de0-2525c1042eb5">
-    - Reels with a duration of less than or equal to 30 seconds are highly effective in terms of reach, impression, comments, saves, and retention, indicating that shorter reels are more engaging and captivating for the audience.
+    - Reels with a duration of less than or equal to 30 seconds are highly effective in terms of reach, impressions, comments, saves, and retention, indicating that shorter reels are more engaging and captivating for the audience.
     - Reels with a duration of more than 30 seconds are particularly effective in generating likes, shares, and overall engagement, suggesting that longer reels may allow for more detailed or immersive content that resonates well with the audience.
-
+    - 
 3. Analysis 3: Analysed important keywords for highest-performing posts
    - The posts were categorized based on the impression bins created: Below 10k, 10k-50k, 50k-1lakh, and Above 1 lakh.
    - Word clouds were created for each of the bins to visualize the frequency of the keywords and the frequently occurring keywords were identified from them.
