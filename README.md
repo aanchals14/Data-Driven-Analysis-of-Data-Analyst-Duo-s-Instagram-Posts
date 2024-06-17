@@ -46,7 +46,7 @@ The project focuses on two primary objectives:
       <img width="914" alt="Screenshot 2024-06-17 110127" src="https://github.com/aanchals14/Instagram-Insights-Analysis/assets/131793044/48f288f7-3197-46b1-9de0-2525c1042eb5">
     - Reels with a duration of less than or equal to 30 seconds are highly effective in terms of reach, impressions, comments, saves, and retention, indicating that shorter reels are more engaging and captivating for the audience.
     - Reels with a duration of more than 30 seconds are particularly effective in generating likes, shares, and overall engagement, suggesting that longer reels may allow for more detailed or immersive content that resonates well with the audience.
-    - 
+  
 3. Analysis 3: Analysed important keywords for highest-performing posts
    - The posts were categorized based on the impression bins created: Below 10k, 10k-50k, 50k-1lakh, and Above 1 lakh.
    - Word clouds were created for each of the bins to visualize the frequency of the keywords and the frequently occurring keywords were identified from them.
