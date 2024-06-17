@@ -38,12 +38,12 @@ The project focuses on two primary objectives:
 ### Analysis & Insights:
 #### Content Analysis:
 1. Analysis 1: Engagement across Different Post Types
-     <img width="916" alt="Screenshot 2024-02-22 193834" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/f82b1dad-aa65-474b-bc66-63f944361379">
+     <img width="916" alt="Screenshot 2024-06-17 110054" src="https://github.com/aanchals14/Instagram-Insights-Analysis/assets/131793044/45e153d6-66bb-496e-b74f-5f04837b2da2">
     - IG Reels outperform other post types with higher average reach (52605), impressions (58707), likes (1915), shares (680), saves (2178), and retention rate (56%), making them a valuable tool for engaging the audience and expanding reach on Instagram.
     - The average engagement rate for IG carousels is 9%, which is significantly higher than the engagement rate for IG images (5%) and IG reels (8%). This suggests that carousels are more effective at capturing users' attention and getting them to interact with the content.
 
 2. Analysis 2: Engagement across Duration Bins
-      <img width="914" alt="Screenshot 2024-02-22 195503" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/d471399f-3aa9-42d8-b8ac-db6a8e445550">
+      <img width="914" alt="Screenshot 2024-06-17 110127" src="https://github.com/aanchals14/Instagram-Insights-Analysis/assets/131793044/48f288f7-3197-46b1-9de0-2525c1042eb5">
     - Reels with a duration of less than or equal to 30 seconds are highly effective in terms of reach, impression, comments, saves, and retention, indicating that shorter reels are more engaging and captivating for the audience.
     - Reels with a duration of more than 30 seconds are particularly effective in generating likes, shares, and overall engagement, suggesting that longer reels may allow for more detailed or immersive content that resonates well with the audience.
 
@@ -64,31 +64,32 @@ The project focuses on two primary objectives:
 #### Daily Statistics Analysis: 
 1. Instagram Reach Over Time:
 
-   <img width="386" alt="Screenshot 2024-02-23 023231" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/2ca7e64c-d2c2-4e8d-88a0-8cfeefd5290e">
+   <img width="386" alt="Screenshot 2024-06-17 140723" src="https://github.com/aanchals14/Instagram-Insights-Analysis/assets/131793044/57616681-a2f8-4719-ab79-590c373cabd1">
   - The reach in 2022 and 2023 shows opposite trends, with 2022 peaking in March and August, while 2023 peaked in May.
+
 2. Instagram Profile Visit Over Time:
 
-   <img width="386" alt="Screenshot 2024-02-23 024910" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/73cd8ab3-7c97-44a8-8614-7b0225a382f7">
+   <img width="386" alt="Screenshot 2024-06-17 141046" src="https://github.com/aanchals14/Instagram-Insights-Analysis/assets/131793044/2e2a23d5-1e66-43a2-ae49-0a3439096236">
   - In 2023, the peak in May indicates a strong interest or engagement spike, potentially due to specific content or campaigns during that period.
   - The declines in February to April and September to November in 2022 suggest periods of lower interest or engagement, possibly indicating the need for more engaging content or strategies during those months.
 
 3. New Followers Gained Over Time:
 
-   <img width="386" alt="Screenshot 2024-02-23 025914" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/ac1a08b7-063c-41c5-a7ae-3d1c2bf414aa">
+   <img width="386" alt="Screenshot 2024-06-17 154959" src="https://github.com/aanchals14/Instagram-Insights-Analysis/assets/131793044/810c117f-7f7b-4494-808e-46976cd88926">
    
   - The count of new followers is highest during December, May, July, and October irrespective of the year.
 
 #### Demographic Analysis:
 1. Age Distribution:
 
-   <img width="386" alt="Screenshot 2024-02-23 030429" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/5ac78a49-0f52-4f25-b09a-bd910ebd0c62">
+   <img width="386" alt="Screenshot 2024-06-17 150244" src="https://github.com/aanchals14/Instagram-Insights-Analysis/assets/131793044/e4b395dc-cd52-4729-b6e5-3f0e5bb73709">
    
    - From the above bar graph, we can infer that the majority of followers are between 25-34. This age group is often highly active on social media platforms and may be more likely to engage with content.
    - They might also be a target demographic for the type of content or products/services this Instagram account promotes. 
 
 2. Gender Distribution:
 
-   <img width="386" alt="Screenshot 2024-02-23 031519" src="https://github.com/aanchals14/Data-Driven-Analysis-of-Data-Analyst-Duo-s-Instagram-Posts/assets/131793044/aea2d8c7-f520-4217-8e6a-edae586ca278">
+   <img width="386" alt="Screenshot 2024-06-17 145720" src="https://github.com/aanchals14/Instagram-Insights-Analysis/assets/131793044/218e9c61-af3c-4c34-a0eb-2e4bb25b87db">
    
    - The predominance of male followers could suggest that their content or brand resonates more with male audiences.
    - Understanding this demographic trend can help tailor their content strategy to better engage with their existing audience while also considering ways to attract a more diverse following if desired.
